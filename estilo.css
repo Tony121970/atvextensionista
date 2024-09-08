@@ -1,9 +1,4 @@
 
-body {
-  background-color: rgb(180, 247, 206);
-  max-width: 1300px;
-  margin: 0 auto;
-}
 
 .container {
   display: flex;
