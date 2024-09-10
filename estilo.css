@@ -30,7 +30,7 @@ header {
 
 li {
   display: inline-block;
-  margin: 70px;
+  margin: 60px;
   font-size: 22px;
 }
 
@@ -133,7 +133,7 @@ input {
   
   li {
     font-size: 20px ;
-    margin: 8px;
+    margin: 6px;
   }
   
   .img {
