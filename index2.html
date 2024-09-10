@@ -1,35 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Recicla Cohab</title>
-  <link rel="stylesheet" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recicla Cohab</title>
+    <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
+  
   <header>
-    <div id="title"> <!--RELATIVO À ID NO CSS INICIA-SE COM "#"-->
-      <h1>Recicla</h1> <!--RELATIVO À CLASS NO CSS IICIA-SE COM "."-->
-      <h1>Cohab</h1> <!--PODE-SE COMBINAR "CLASS" COM "ID"-->
-    </div> <!--CTRL + D + CLICK SELECIONA OS IGUAIS-->
+    <div id="title"> 
+      <h1>Recicla</h1> 
+      <h1>Cohab</h1> 
+    </div> 
     <ul>
       <a href="index.html"><li class="inicio">Início</li></a>
       <a href="index1.html"><li class="sobre">Sobre</li></a>
     </ul>
   </header>
   <div>
-    <img src="imagem/imagem.jpg" class="img">
+    <img src="imagem.jpg" class="img">
   </div>
-  <!--OBRIGATÓRIO O USO DO ATRIBUTO 'enctype' PARA TRABALHAR COM IMAGEM-->
+  
   <form method='POST' action='' enctype='multipart/form-data'>
-    <input type='text' name='nome' placeholder='Digite seu nome:' required>
-    <input type='email' name='email' placeholder='Digite seu email:' required>
-    <input type='telefone' name='telefone' placeholder='Digite seu telefone:' required>
-    <input type='file' name='imagens[]' multiple='multiple' required>
-    <input type='submit' name='SendCadUser' value='Cadastrar'>
-</form>
+      <input type='text' name='nome' placeholder='Digite seu nome:' required>
+      <input type='email' name='email' placeholder='Digite seu email:' required>
+      <input type='telefone' name='telefone' placeholder='Digite seu telefone:' required>
+      <input type='file' name='imagens[]' multiple='multiple' required>
+      <input type='submit' name='SendCadUser' value='Cadastrar'>
+  </form>
 
 </body>
 
