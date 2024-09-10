@@ -3,6 +3,7 @@ body {
   max-width: 1300px;
   margin: 0 auto;
 }
+
 .container {
   display: flex;
 }
@@ -19,7 +20,6 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
 }
 
 #title {
@@ -29,9 +29,8 @@ header {
 
 li {
   display: inline-block;
-  margin: 60px;
+  margin: 70px;
   font-size: 22px;
-  padding-right: 20px;
 }
 
 .inicio {
@@ -51,12 +50,6 @@ a:hover {
   transition: 0.3s all
 }
 
-main {
-  display: flex;
-  flex-direction: row;
-  margin-top: 50px;
-}
-
 h1 {
   font-size: 50px;
   color: rgb(196, 6, 6);
@@ -72,23 +65,23 @@ h2 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 24px;
   line-height: 30px;
   max-width: 640px;
   font-family: Impact, Haettenschweiler, ;
   color: rgb(196, 6, 6);
-  padding-top: 40px;
+  padding-top: 60px;
   padding-left: 40px;
   text-align: justify;
 }
 
 form {
+  padding-left: 40px;
   display: flex;
   flex-direction: column;
   width: 30%;
-  padding-left: 40px;
-  padding-top: 72px;
-}
+  padding-top: 80px;
+  }
 
 form [type="submit"] {
   height: 36px;
@@ -96,6 +89,7 @@ form [type="submit"] {
   background-color: rgb(8, 122, 33);
   color: white;
   cursor: pointer;
+  padding: 2px;
 }
 
 form [type="submit"]:hover {
@@ -103,12 +97,13 @@ form [type="submit"]:hover {
 }
 
 input {
+  width: 340px;
   margin-top: 10px;
-  height: 15px;
+  height: 10px;
   padding: 10px;
   border-radius: 20px;
-  border: none;
-  font-size: 15px;
+  border: 2px solid rgb(8, 122, 33);
+  font-size: 16px;
   background-color: white;
 }
 
@@ -116,8 +111,67 @@ input {
   float: right;
   height: 400px;
   width: 500px;
-  padding-right: 60px;
+  padding-right: 40px;
   box-sizing: border-box;
   padding-bottom: 4%;
 }
 
+@media screen and (max-width:768px){
+  body {
+    display: block;
+    margin: 0 auto;
+  }
+ 
+  .container {
+    display: block;
+  }
+      
+  .container p{
+    margin: 0% 10%;
+  }
+  
+  li {
+    font-size: 20px ;
+    margin: 8px;
+  }
+  
+  .img {
+    float: center;
+    height: 250px;
+    width: 330px;
+    padding-top: 10%;
+  }
+  
+  input {
+    width: 72vw;
+  }
+
+  form {
+    padding-top: 20px;
+  }
+
+  form [type="submit"] {
+    width: 80%;
+  }
+
+  p {
+    font-size: 20px;
+    padding-top: 0px;
+    padding-left: 0px;
+    line-height: 22px;
+    margin: 20px  10%;
+  }
+
+  h1 {
+    font-size: 38px;
+    padding-left: 44px;
+  }
+
+  h2 {
+    font-size: 28px;
+    line-height: 10px;
+    padding-left: 44px;
+  }
+
+}
+  
