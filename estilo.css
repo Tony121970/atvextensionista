@@ -109,10 +109,8 @@ input {
 }
 
 .img {
-  float: right;
   height: 400px;
   width: 500px;
-  padding-right: 40px;
   box-sizing: border-box;
   padding-bottom: 4%;
 }
