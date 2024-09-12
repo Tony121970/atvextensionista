@@ -109,6 +109,7 @@ input {
 }
 
 .img {
+  float: right;
   height: 400px;
   width: 500px;
   box-sizing: border-box;
