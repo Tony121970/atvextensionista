@@ -10,8 +10,8 @@ body {
 
 .container p {
   text-align: justify;
-  font-family: sans-serif;
-  font-size: 20px;
+  font-family: Impact, Haettenschweiler,;
+  font-size: 22px;
   color: rgb(134, 12, 12);
   padding-top: 0%;
   line-height: 28px;
@@ -129,6 +129,7 @@ input {
       
   .container p{
     margin: 0% 10%;
+    font-size: 20px;
   }
   
   li {
