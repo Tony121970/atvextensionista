@@ -230,6 +230,23 @@ input {
     padding-top: 10%;
     padding-right: 52px;
   }
+
+  .img1 {
+  float: right;
+  height: 460px;
+  width: 500px;
+  box-sizing: border-box;
+  padding-bottom: 4%;
+  padding-right: 46px;
+}
+.img2 {
+  float: right;
+  height: 480px;
+  width: 800px;
+  box-sizing: border-box;
+  padding-bottom: 120px;
+  padding-right: 46px;
+  }
   
   input {
     width: 72vw;
@@ -268,6 +285,7 @@ input {
 
 }
   
+
 
 
 
