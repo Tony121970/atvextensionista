@@ -233,16 +233,18 @@ input {
 
   .img1 {
   float: right;
-  height: 460px;
-  width: 500px;
+  height: 250px;
+  width: 340px;
+  padding-top: 10%;
   box-sizing: border-box;
   padding-bottom: 4%;
-  padding-right: 46px;
+  padding-right: 52px;
 }
 .img2 {
   float: right;
-  height: 380px;
-  width: 600px;
+  height: 250px;
+  width: 340px;
+  padding-bottom: 4%;
   box-sizing: border-box;
   padding-bottom: 80px;
   padding-right: 26px;
@@ -285,6 +287,7 @@ input {
 
 }
   
+
 
 
 
