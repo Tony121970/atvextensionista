@@ -1,18 +1,54 @@
+.header {
+  background-color: rgba(128, 100, 64, 0.938);
+  color: black;
+  padding-bottom: 0px;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+}
+
 body {
-  background-color: rgb(180, 247, 206);
+  background-color: #f8eac2;
   max-width: 1300px;
   margin: 0 auto;
 }
 
+.box {
+  width: 25%;
+  font: bold 1.5em sans-serif;
+  color: #f2f5f7;
+  padding: px 6px;
+  text-align:center;
+  text-decoration: none;
+}
+
+.box:hover {
+  color: rgb(2, 1, 15);
+  transition: 0.5s all;
+  cursor: pointer;
+}
+
+.box1 {
+  background: #bd8127;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.box2 {
+  background: #bd8127;
+  border-radius: 0px 0px 10px 10px;
+}
+
+
 .container {
   display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .container p {
   text-align: justify;
   font-family: Impact, Haettenschweiler,;
   font-size: 22px;
-  color: rgb(134, 12, 12);
+  color: rgb(94, 30, 30);
   padding-top: 0%;
   line-height: 28px;
 }
@@ -23,23 +59,28 @@ header {
   justify-content: space-between;
 }
 
+
+
 #title {
   flex-direction: column;
-  line-height: 20px;
+  line-height: 0px;
+  padding-top: 0%;
 }
 
 li {
   display: inline-block;
   margin: 60px;
-  font-size: 22px;
+  font-size: 28px;
 }
 
 .inicio {
   padding-right: 40px;
+  padding-top: 0%;
 }
 
 .sobre {
   padding-right: 60px;
+  padding-top: 0%;
 }
 
 a {
@@ -47,22 +88,37 @@ a {
 }
 
 a:hover {
-  color: rgb(196, 6, 6);
+  color: rgb(196, 10, 10);
   transition: 0.3s all
 }
 
+
 h1 {
   font-size: 50px;
-  color: rgb(196, 6, 6);
-  padding-left: 80px;
+  color: rgb(22, 2, 2);
+  padding-left: 8px;
 }
 
 h2 {
   padding-left: 160px;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: rgb(8, 122, 33)
+  color: rgba(116, 73, 18, 0.938)
+}
+
+h3 {
+  font-size: 50px;
+  color: rgb(22, 2, 2);
+  padding-left: 20px;
+  padding-top: 0%;
+}
+
+h4 {
+  font-size: 40px;
+  color: rgb(196, 10, 10);
+  padding-left: 20px;
+  padding-top: 0%;
 }
 
 p {
@@ -70,7 +126,7 @@ p {
   line-height: 30px;
   max-width: 640px;
   font-family: Impact, Haettenschweiler, ;
-  color: rgb(134, 12, 12);
+  color: rgba(116, 73, 18, 0.938);
   padding-top: 60px;
   padding-left: 40px;
   text-align: justify;
@@ -81,19 +137,33 @@ form {
   display: flex;
   flex-direction: column;
   width: 30%;
-  padding-top: 80px;
+  padding-top: 100px;
+  padding-bottom: 4%;
   }
 
 form [type="submit"] {
   height: 36px;
   width: 60%;
-  background-color: rgb(8, 122, 33);
+  background-color: rgb(4, 44, 13);
   color: white;
   cursor: pointer;
   padding: 2px;
 }
 
 form [type="submit"]:hover {
+  background-color: rgb(8, 122, 33)
+}
+
+form [type="reset"] {
+  height: 24px;
+  width: 50%;
+  background-color: rgb(4, 44, 13);
+  color: white;
+  cursor: pointer;
+  padding: 2px;
+}
+
+form [type="reset"]:hover {
   background-color: rgb(196, 6, 6)
 }
 
@@ -110,11 +180,28 @@ input {
 
 .img {
   float: right;
-  height: 400px;
+  height: 460px;
   width: 500px;
   box-sizing: border-box;
   padding-bottom: 4%;
   padding-right: 46px;
+}
+.img1 {
+  float: right;
+  height: 460px;
+  width: 500px;
+  box-sizing: border-box;
+  padding-bottom: 4%;
+  padding-right: 46px;
+}
+.img2 {
+  float: right;
+  height: 480px;
+  width: 800px;
+  box-sizing: border-box;
+  padding-bottom: 120px;
+  padding-right: 46px;
+  
 }
 
 @media screen and (max-width:768px){
@@ -155,6 +242,10 @@ input {
   form [type="submit"] {
     width: 80%;
   }
+  
+  form [type="reset"] {
+    width: 60%;
+  }
 
   p {
     font-size: 20px;
@@ -177,3 +268,5 @@ input {
 
 }
   
+
+
