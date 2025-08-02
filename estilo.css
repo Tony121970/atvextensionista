@@ -241,11 +241,11 @@ input {
 }
 .img2 {
   float: right;
-  height: 480px;
-  width: 800px;
+  height: 380px;
+  width: 600px;
   box-sizing: border-box;
-  padding-bottom: 120px;
-  padding-right: 46px;
+  padding-bottom: 80px;
+  padding-right: 26px;
   }
   
   input {
@@ -285,6 +285,7 @@ input {
 
 }
   
+
 
 
 
