@@ -74,16 +74,17 @@ li {
 }
 
 .inicio {
-  padding-right: 40px;
+  padding-right: 0px;
   padding-top: 0%;
 }
 
 .sobre {
-  padding-right: 60px;
+  padding-right: 40px;
   padding-top: 0%;
 }
-.escolher arquivo {
-  padding-right: 60px;
+
+.escolher_arquivo {
+  padding-right: 20px;
   padding-top: 0%;
 }
 
@@ -305,6 +306,7 @@ input {
 
 }
   
+
 
 
 
