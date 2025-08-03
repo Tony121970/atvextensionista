@@ -4,6 +4,9 @@
   padding-bottom: 0px;
   text-align: center;
   border-radius: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 body {
@@ -302,6 +305,7 @@ img2 {
 
 }
   
+
 
 
 
