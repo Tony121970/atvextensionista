@@ -250,7 +250,7 @@ input {
     height: 250px;
     width: 340px;
     padding-bottom: 4%;
-    padding-bottom: 80px;
+    /*padding-bottom: 80px;*/
   }
   
   input {
@@ -298,6 +298,7 @@ input {
 
 }
   
+
 
 
 
