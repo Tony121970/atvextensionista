@@ -212,7 +212,7 @@ input {
   height: 480px;
   width: 800px;
   box-sizing: border-box;
-  padding-bottom: 60px;
+  padding-bottom: 100px;
   padding-right: 46px;
   padding-top: 0px;
 }
@@ -259,8 +259,8 @@ input {
     padding-right: 52px;
   }
   .img2 {
-    height: 250px;
-    width: 340px;
+    height: 360px;
+    width: 360px;
     padding-top: 10%;
     padding-right: 52px;
   }
@@ -302,6 +302,7 @@ input {
 
 }
   
+
 
 
 
