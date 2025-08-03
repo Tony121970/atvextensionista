@@ -233,12 +233,12 @@ input {
   }
   
   .box {
-  width: 25%;
-  font: bold 1.0em sans-serif;
-  color: #f2f5f7;
-  padding: px 6px;
-  text-align:center;
-  text-decoration: none;
+    width: 25%;
+    font: bold 0.8em sans-serif;
+    color: #f2f5f7;
+    padding: px 6px;
+    text-align:center;
+    text-decoration: none;
 }
   
   li {
@@ -302,6 +302,7 @@ input {
 
 }
   
+
 
 
 
