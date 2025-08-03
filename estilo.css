@@ -4,9 +4,6 @@
   padding-bottom: 0px;
   text-align: center;
   border-radius: 0px 0px 0px 0px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
 }
 
 body {
@@ -215,6 +212,17 @@ img2 {
 }
 
 @media screen and (max-width:768px){
+  
+  .header_inicial {
+  background-color: rgba(128, 100, 64, 0.938);
+  color: black;
+  padding-bottom: 0px;
+  text-align: center;
+  border-radius: 0px 0px 0px 0px;
+  }
+
+  
+  
   body {
     display: block;
     margin: 0 auto;
@@ -305,6 +313,7 @@ img2 {
 
 }
   
+
 
 
 
