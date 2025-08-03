@@ -295,12 +295,21 @@ input {
     padding-left: 44px;
   }
   
+  h3 {
+  font-size: 30px;
+  color: rgb(12, 56, 27);
+  padding-left: 40px;
+  padding-top: 0%;
+  padding-bottom: 4%;
+  }
+  
   h4 {
     font-size: 30px;
     npadding-left: 20px;
   }
 }
   
+
 
 
 
