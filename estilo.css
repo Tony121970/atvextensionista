@@ -186,6 +186,7 @@ input {
   padding-bottom: 4%;
   padding-right: 46px;
 }
+
 .img1 {
   float: right;
   height: 460px;
@@ -194,6 +195,7 @@ input {
   padding-bottom: 4%;
   padding-right: 46px;
 }
+
 .img2 {
   float: right;
   height: 480px;
@@ -201,8 +203,7 @@ input {
   box-sizing: border-box;
   padding-bottom: 120px;
   padding-right: 46px;
-  
-}
+  }
 
 @media screen and (max-width:768px){
   body {
@@ -240,14 +241,12 @@ input {
   padding-bottom: 4%;
   padding-right: 52px;
 }
-.img2 {
+  img2 {
   float: right;
   height: 250px;
   width: 340px;
   padding-bottom: 4%;
-  box-sizing: border-box;
   padding-bottom: 80px;
-  padding-left: 0%;
   }
   
   input {
@@ -287,6 +286,7 @@ input {
 
 }
   
+
 
 
 
