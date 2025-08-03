@@ -209,7 +209,7 @@ input {
   padding-right: 0px;
   padding-right: 0px;
   padding-left: 0px;
-  }
+}
 
 @media screen and (max-width:768px){
   body {
@@ -253,6 +253,11 @@ input {
     width: 340px;
     padding-top: 10%;
     padding-bottom: 4%;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    
     /*padding-bottom: 80px;*/
   }
   
@@ -301,6 +306,7 @@ input {
 
 }
   
+
 
 
 
