@@ -208,7 +208,7 @@ input {
 }
 
 
-/*@media screen and (max-width:768px){
+@media screen and (max-width:768px){
   body {
     display: block;
     margin: 0 auto;
@@ -295,16 +295,16 @@ input {
   }
   
   /*h3 {
-  font-size: 30px;
-  padding-left: 40px;
-  padding-top: 0%;
-  padding-bottom: 4%;
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 0%;
+    padding-bottom: 4%;
   
   
   h4 {
     font-size: 30px;
     npadding-left: 20px;
-  
+  }*/
   
   h3 {
   font-size: 30px;
@@ -324,10 +324,11 @@ input {
    flex-direction: column;
    line-height: 0px;
   }
+
+}
   
-  }*/
   
-  
+
 
 
 
