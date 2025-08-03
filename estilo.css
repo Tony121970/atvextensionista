@@ -280,9 +280,13 @@ input {
   }
 
   h2 {
-    font-size: 28px;
-    line-height: 10px;
-    padding-left: 0px;
+  padding-left: 160px;
+  font-size: 30px;
+  line-height: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgba(116, 73, 18, 0.938)
+  }
+
   
   }
   h3 {
@@ -293,6 +297,7 @@ input {
 
 }
   
+
 
 
 
