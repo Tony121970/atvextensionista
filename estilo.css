@@ -96,7 +96,7 @@ a:hover {
 h1 {
   font-size: 50px;
   color: rgb(22, 2, 2);
-  padding-left: 10px;
+  padding-left: 8px;
 }
 
 h2 {
@@ -273,7 +273,7 @@ input {
     margin: 20px  10%;
   }
 
-  h1 {
+  .h1 {
     font-size: 38px;
     line-height: 10px;
     padding-left: 44px;
@@ -294,6 +294,7 @@ input {
 
 }
   
+
 
 
 
