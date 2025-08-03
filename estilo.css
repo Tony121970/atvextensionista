@@ -205,10 +205,9 @@ input {
   height: 480px;
   width: 800px;
   box-sizing: border-box;
-  padding-bottom: 0px;
-  padding-right: 0px;
-  padding-right: 0px;
-  padding-left: 0px;
+  padding-bottom: 120px;
+  padding-right: 46px;
+  
 }
 
 @media screen and (max-width:768px){
@@ -306,6 +305,7 @@ input {
 
 }
   
+
 
 
 
