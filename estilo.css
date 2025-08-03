@@ -270,11 +270,11 @@ input {
   }
 
   form {
-    padding-top: 60px;
+    padding-top: 40px;
   }
 
   form [type="submit"] {
-    width: 80%;
+    width: 60%;
   }
   
   form [type="reset"] {
@@ -302,6 +302,7 @@ input {
 
 }
   
+
 
 
 
