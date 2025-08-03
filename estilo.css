@@ -60,11 +60,11 @@ header {
   padding-bottom: 0%;
 }
 
-/*#title {
+#title {
   flex-direction: column;
   line-height: 0px;
   padding-top: 0%;
-}*/
+
 
 li {
   display: inline-block;
@@ -335,6 +335,7 @@ input {
   }
   
   
+
 
 
 
