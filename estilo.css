@@ -3,7 +3,7 @@
   color: black;
   padding-bottom: 0px;
   text-align: center;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 body {
@@ -29,12 +29,12 @@ body {
 
 .box1 {
   background: #bd8127;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .box2 {
   background: #bd8127;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 
@@ -293,6 +293,7 @@ input {
 
 }
   
+
 
 
 
