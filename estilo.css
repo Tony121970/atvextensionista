@@ -14,9 +14,9 @@ body {
 
 .box {
   width: 25%;
-  font: bold 1.5em sans-serif;
+  font: bold 1.2em sans-serif;
   color: #f2f5f7;
-  padding: px 6px;
+  padding: 2px 2px;
   text-align:center;
   text-decoration: none;
 }
@@ -234,9 +234,9 @@ input {
   
   .box {
     width: 25%;
-    font: bold 0.8em sans-serif;
+    font: bold 1.2em sans-serif;
     color: #f2f5f7;
-    padding: px 6px;
+    padding: 4px 4px;
     text-align:center;
     text-decoration: none;
 }
@@ -302,6 +302,7 @@ input {
 
 }
   
+
 
 
 
