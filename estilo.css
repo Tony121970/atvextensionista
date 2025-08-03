@@ -225,7 +225,7 @@ input {
   
   .box {
     width: 25%;
-    font: bold 1.5em sans-serif;
+    font: bold 1.0em sans-serif;
     color: #f2f5f7;
     padding: 2px 2px;
     text-align:center;
@@ -328,6 +328,7 @@ input {
 }
   
   
+
 
 
 
