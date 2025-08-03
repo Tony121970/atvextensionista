@@ -214,17 +214,17 @@ img2 {
 @media screen and (max-width:768px){
   
   .header_inicial {
-  background-color: rgba(128, 100, 64, 0.938);
-  color: black;
-  padding-bottom: 0px;
-  text-align: center;
-  border-radius: 0px 0px 0px 0px;
+    background-color: rgba(128, 100, 64, 0.938);
+    color: black;
+    padding-bottom: 0px;
+    text-align: center;
+    border-radius: 0px 0px 0px 0px;
   }
 
   header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
   }
   
   body {
@@ -317,6 +317,7 @@ img2 {
 
 }
   
+
 
 
 
