@@ -225,14 +225,14 @@ input {
     margin: 6px;
   }
   
-  .img {
+  img {
     height: 250px;
     width: 340px;
     padding-top: 10%;
     padding-right: 52px;
   }
 
-  .img1 {
+  img1 {
   float: right;
   height: 250px;
   width: 340px;
@@ -286,6 +286,7 @@ input {
 
 }
   
+
 
 
 
