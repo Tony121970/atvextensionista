@@ -55,7 +55,6 @@ body {
 
 header {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
 }
 
@@ -183,7 +182,7 @@ input {
   background-color: white;
 }
 
-img {
+.img {
   float: right;
   height: 460px;
   width: 500px;
@@ -192,7 +191,7 @@ img {
   padding-right: 46px;
 }
 
-img1 {
+.img1 {
   float: right;
   height: 460px;
   width: 500px;
@@ -201,7 +200,7 @@ img1 {
   padding-right: 46px;
 }
 
-img2 {
+.img2 {
   float: right;
   height: 480px;
   width: 800px;
@@ -317,6 +316,7 @@ img2 {
 
 }
   
+
 
 
 
