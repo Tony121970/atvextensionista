@@ -275,6 +275,7 @@ input {
 
   h1 {
     font-size: 38px;
+    line-height: 10px;
     padding-left: 44px;
   }
 
@@ -282,6 +283,7 @@ input {
     font-size: 28px;
     line-height: 10px;
     padding-left: 44px;
+  
   }
   h3 {
     font-size: 28px;
@@ -291,6 +293,7 @@ input {
 
 }
   
+
 
 
 
