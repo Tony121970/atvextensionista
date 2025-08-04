@@ -243,12 +243,12 @@ input {
   }
 
   .sobre {
-    padding-right: 20px;
+    padding-right: 0px;
     padding-top: 0%;
   }
 
   .escolher_arquivo {
-    padding-right: 20px;
+    padding-right: 0px;
     padding-top: 0%;
   }
   
@@ -343,6 +343,7 @@ input {
 }
   
   
+
 
 
 
