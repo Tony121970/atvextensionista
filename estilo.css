@@ -304,7 +304,6 @@ input {
 
   h1 {
     font-size: 38px;
-    /*padding-left: 44px;*/
   }
 
   h2 {
@@ -313,26 +312,14 @@ input {
     padding-left: 70px;
   }
   
-  /*h3 {
-    font-size: 30px;
-    padding-left: 40px;
-    padding-top: 0%;
-    padding-bottom: 4%;
-  
-  
-  h4 {
-    font-size: 30px;
-    npadding-left: 20px;
-  }*/
-  
   h3 {
   font-size: 30px;
   color: rgb(12, 56, 27);
   padding-left: 40px;
   padding-top: 0%;
   padding-bottom: 4%;
-  flex-direction: column;
-  line-height: 0px;
+  /*flex-direction: column;*/
+  line-height: 10px;
   }
 
   h4 {
@@ -347,6 +334,7 @@ input {
 }
   
   
+
 
 
 
