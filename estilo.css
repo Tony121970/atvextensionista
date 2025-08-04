@@ -220,6 +220,12 @@ input {
     margin: 0% 10%;
     font-size: 20px;
   }
+
+  li {
+    display: inline-block;
+    margin: 30px;
+    font-size: 28px;
+  }
   
   .box {
     width: 25%;
@@ -341,6 +347,7 @@ input {
 }
   
   
+
 
 
 
