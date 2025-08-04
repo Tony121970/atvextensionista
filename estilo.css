@@ -2,7 +2,7 @@
   background-color: rgba(128, 100, 64, 0.938);
   color: black;
   text-align: center;
-  border-radius: 10px 10px 10px 10px;
+  border-radius: 0px 0px 0px 0px;
 }
 
 body {
@@ -300,7 +300,7 @@ input {
 
   h1 {
     font-size: 38px;
-    padding-left: 44px;
+    /*padding-left: 44px;*/
   }
 
   h2 {
@@ -343,6 +343,7 @@ input {
 }
   
   
+
 
 
 
