@@ -313,9 +313,9 @@ input {
   }
   
   h3 {
-  font-size: 28px;
+  font-size: 26px;
   color: rgb(12, 56, 27);
-  padding-left: 40px;
+  padding-left: 34px;
   padding-top: 0%;
   padding-bottom: 0px;
   /*flex-direction: column;*/
@@ -334,6 +334,7 @@ input {
 }
   
   
+
 
 
 
