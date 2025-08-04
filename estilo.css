@@ -237,6 +237,21 @@ input {
     margin: 6px;
   }
   
+  .inicio {
+    padding-right: 0px;
+    padding-top: 0%;
+  }
+
+  .sobre {
+    padding-right: 20px;
+    padding-top: 0%;
+  }
+
+  .escolher_arquivo {
+    padding-right: 20px;
+    padding-top: 0%;
+  }
+  
   .img {
     height: 250px;
     width: 340px;
@@ -328,6 +343,7 @@ input {
 }
   
   
+
 
 
 
