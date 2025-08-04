@@ -96,7 +96,7 @@ h1 {
 }
 
 h2 {
-  padding-left: 160px;
+  padding-left: 200px;
   font-size: 30px;
   line-height: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -291,7 +291,7 @@ input {
   h2 {
     font-size: 28px;
     line-height: 10px;
-    padding-left: 140px;
+    padding-left: 200px;
   }
   
   /*h3 {
@@ -328,6 +328,7 @@ input {
 }
   
   
+
 
 
 
