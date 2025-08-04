@@ -225,7 +225,7 @@ input {
   
   .box {
     width: 25%;
-    font: bold 1.5em sans-serif;
+    font: bold 1.2em sans-serif;
     color: #f2f5f7;
     padding: 4px 4px;
     text-align:center;
@@ -291,7 +291,7 @@ input {
   h2 {
     font-size: 28px;
     line-height: 10px;
-    padding-left: 200px;
+    padding-left: 80px;
   }
   
   /*h3 {
@@ -328,6 +328,7 @@ input {
 }
   
   
+
 
 
 
