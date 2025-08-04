@@ -313,13 +313,13 @@ input {
   }
   
   h3 {
-  font-size: 22px;
-  color: rgb(12, 56, 27);
-  padding-left: 34px;
-  padding-top: 0%;
-  padding-bottom: 0px;
-  flex-direction: column;
-  line-height: 20px;
+    font-size: 20px;
+    color: rgb(12, 56, 27);
+    padding-left: 34px;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    flex-direction: column;
+    line-height: 20px;
   }
 
   h4 {
@@ -334,6 +334,7 @@ input {
 }
   
   
+
 
 
 
