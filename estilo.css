@@ -214,6 +214,7 @@ input {
  
   .container {
     display: block;
+    padding-left: 40px;
   }
       
   .container p{
@@ -309,7 +310,7 @@ input {
   h2 {
     font-size: 28px;
     line-height: 10px;
-    padding-left: 70px;
+    padding-left: 76px;
   }
   
   h3 {
@@ -334,6 +335,7 @@ input {
 }
   
   
+
 
 
 
