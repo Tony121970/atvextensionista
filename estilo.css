@@ -244,17 +244,17 @@ input {
   }
   
   .inicio {
-    padding-right: 8px;
+    padding-right: 10px;
     padding-top: 0%;
   }
 
   .sobre {
-    padding-right: 8px;
+    padding-right: 10px;
     padding-top: 0%;
   }
 
   .escolher_arquivo {
-    padding-right: 8px;
+    padding-right: 10px;
     padding-top: 0%;
   }
   
@@ -336,6 +336,7 @@ input {
 }
   
   
+
 
 
 
