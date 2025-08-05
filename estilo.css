@@ -108,7 +108,7 @@ h3 {
   padding-top: 0%;
   padding-bottom: 4%;
   flex-direction: column;
-  line-height: 0px;
+  line-height: 6px;
 }
 
 h4 {
@@ -339,6 +339,7 @@ input {
 }
   
   
+
 
 
 
