@@ -245,16 +245,19 @@ input {
   
   .inicio {
     padding-right: 10px;
+     padding-left: 20px;
     padding-top: 0%;
   }
 
   .sobre {
     padding-right: 10px;
+    padding-left: 20px;
     padding-top: 0%;
   }
 
   .escolher_arquivo {
     padding-right: 10px;
+    padding-left: 20px;
     padding-top: 0%;
   }
   
@@ -336,6 +339,7 @@ input {
 }
   
   
+
 
 
 
