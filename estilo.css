@@ -244,17 +244,17 @@ input {
   }
   
   .inicio {
-    padding-right: 6px;
+    padding-right: 8px;
     padding-top: 0%;
   }
 
   .sobre {
-    padding-right: 6px;
+    padding-right: 8px;
     padding-top: 0%;
   }
 
   .escolher_arquivo {
-    padding-right: 6px;
+    padding-right: 8px;
     padding-top: 0%;
   }
   
@@ -317,7 +317,7 @@ input {
   h3 {
     font-size: 20px;
     color: rgb(12, 56, 27);
-    padding-left: 0px;
+    padding-left: 8px;
     padding-top: 10px;
     padding-bottom: 0px;
     flex-direction: column;
@@ -336,6 +336,7 @@ input {
 }
   
   
+
 
 
 
