@@ -156,14 +156,14 @@ form [type="submit"]:hover {
 form [type="reset"] {
   height: 28px;
   width: 40%;
-  background-color: rgb(4, 44, 13);
+  background-color: rgb(92, 8, 8);
   color: white;
   cursor: pointer;
   padding: 2px;
 }
 
 form [type="reset"]:hover {
-  background-color: rgb(196, 6, 6)
+  background-color: rgb(196, 10, 10)
 }
 
 input {
@@ -340,6 +340,7 @@ input {
 }
   
   
+
 
 
 
