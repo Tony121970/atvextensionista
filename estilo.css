@@ -227,7 +227,7 @@ input {
   }
       
   .container p{
-    margin: 0% 10%;
+    margin: 10% 10%; /*0% 10%*/
     font-size: 20px;
   }
 
@@ -238,21 +238,21 @@ input {
   
   .inicio {
     padding-right: 4px;
-    padding-left: 4px; /*40px*/
+    padding-left: 4px; 
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
 
   .sobre {
     padding-right: 6px;
-    padding-left: 6px; /*40px*/
+    padding-left: 6px; 
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
 
   .escolher_arquivo {
     padding-right: 4px;
-    padding-left: 4px; /*40px*/
+    padding-left: 4px; 
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
@@ -322,6 +322,7 @@ input {
 }
   
   
+
 
 
 
