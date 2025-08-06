@@ -292,7 +292,7 @@ input {
   }
 
   form [type="submit"] {
-    width: 60%;
+    width: 80%;
   }
   
   form [type="reset"] {
@@ -340,6 +340,7 @@ input {
 }
   
   
+
 
 
 
