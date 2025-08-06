@@ -154,8 +154,8 @@ form [type="submit"]:hover {
 }
 
 form [type="reset"] {
-  height: 24px;
-  width: 50%;
+  height: 28px;
+  width: 40%;
   background-color: rgb(4, 44, 13);
   color: white;
   cursor: pointer;
@@ -340,6 +340,7 @@ input {
 }
   
   
+
 
 
 
