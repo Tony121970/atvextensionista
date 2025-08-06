@@ -59,7 +59,7 @@ header {
 
 li {
   display: inline-block;
-  margin: 60px;
+  margin: 60px; 
   font-size: 24px;
 }
 
@@ -69,17 +69,17 @@ li {
 }
 
 .sobre {
-  padding-right: 20px;
+  padding-right: 20px; 
   padding-top: 0%;
 }
 
 .escolher_arquivo {
-  padding-right: 20px;
+  padding-right: 20px; 
   padding-top: 0%;
 }
 
 a {
-  color: rgb(8, 122, 33);
+  color: rgb(12, 56, 27);
 }
 
 a:hover {
@@ -101,13 +101,13 @@ h2 {
 }
 
 h3 {
-  font-size: 50px;
+  font-size: 40px;
   color: rgb(12, 56, 27);
   padding-left: 40px;
   padding-top: 0%;
   padding-bottom: 4%;
   flex-direction: column;
-  line-height: 6px;
+  line-height: 0px;
 }
 
 h4 {
@@ -313,6 +313,7 @@ input {
 }
   
   
+
 
 
 
