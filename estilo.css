@@ -244,15 +244,15 @@ input {
   }
 
   .sobre {
-    padding-right: 0px;
-    padding-left: 0px; /*40px*/
+    padding-right: 30px;
+    padding-left: 30px; /*40px*/
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
 
   .escolher_arquivo {
-    padding-right: 0px;
-    padding-left: 0px; /*40px*/
+    padding-right: 40px;
+    padding-left: 40px; /*40px*/
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
@@ -322,6 +322,7 @@ input {
 }
   
   
+
 
 
 
