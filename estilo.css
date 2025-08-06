@@ -17,12 +17,14 @@ body {
   padding:  2px 2px;
   text-align:center;
   text-decoration: none;
+  margin-left: 3%;
 }
 
 .box:hover {
   color: rgb(2, 1, 15);
   transition: 0.5s all;
   cursor: pointer;
+
 }
 
 .box1 {
@@ -220,6 +222,7 @@ input {
  
   .box {
    padding: 4px 4px;
+   margin-left: 3%; 
   }
   
   .container {
@@ -322,6 +325,7 @@ input {
 }
   
   
+
 
 
 
