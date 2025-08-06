@@ -237,21 +237,21 @@ input {
   }
   
   .inicio {
-    padding-right: 0px;
-    padding-left: 0px; /*40px*/
+    padding-right: 22px;
+    padding-left: 22px; /*40px*/
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
 
   .sobre {
-    padding-right: 30px;
-    padding-left: 30px; /*40px*/
+    padding-right: 20px;
+    padding-left: 20px; /*40px*/
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
   }
 
   .escolher_arquivo {
-    padding-right: 40px;
+    padding-right: 10px;
     padding-left: 40px; /*40px*/
     background-color: rgba(128, 100, 64, 0.938);
     border-radius: 5px 5px 5px 5px;
@@ -322,6 +322,7 @@ input {
 }
   
   
+
 
 
 
