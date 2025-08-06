@@ -2,7 +2,6 @@
   background-color: rgba(128, 100, 64, 0.938);
   color: black;
   text-align: center;
-  border-radius: 0px 0px 0px 0px;
 }
 
 body {
@@ -112,7 +111,6 @@ h3 {
 }
 
 h4 {
-
   font-size: 30px;
   color: rgb(196, 10, 10);
   padding-left: 20px;
@@ -209,12 +207,14 @@ input {
 @media screen and (max-width:768px){
   body {
     display: block;
-    margin: 0 auto;
   }
  
+  .box {
+   padding: 4px 4px;
+  }
+  
   .container {
     display: block;
-    
   }
       
   .container p{
@@ -222,43 +222,70 @@ input {
     font-size: 20px;
   }
 
-  li {
-    display: inline-block;
+  /*li {
     margin: 30px;
     font-size: 28px;
-  }
+  }*/
   
-  .box {
-    width: 25%;
-    font: bold 1.2em sans-serif;
-    color: #f2f5f7;
-    padding: 4px 4px;
-    text-align:center;
-    text-decoration: none;
-    /*padding-left: 40px;*/
-  }
+
   
   li {
-    font-size: 20px ;
+    font-size: 20px;
     margin: 6px;
   }
   
   .inicio {
     padding-right: 20px;
      padding-left: 40px;
-    padding-top: 0%;
   }
 
   .sobre {
     padding-right: 20px;
     padding-left: 40px;
-    padding-top: 0%;
   }
 
   .escolher_arquivo {
-    padding-right: 20px;
     padding-left: 40px;
-    padding-top: 0%;
+  }
+
+  h1 {
+    font-size: 38px;
+  }
+
+  h2 {
+    font-size: 28px;
+    padding-left: 76px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding_right: 10px;
+  }
+
+  p {
+    font-size: 20px;
+    padding-top: 0px;
+    padding-left: 0px;
+    line-height: 22px;
+    margin: 20px  10%;
+  }
+
+  form {
+    padding-top: 0px;
+  }
+
+  form [type="submit"] {
+    width: 80%;
+  }
+  
+  form [type="reset"] {
+    width: 60%;
+  }
+  
+  input {
+    width: 72vw;
   }
   
   .img {
@@ -283,63 +310,10 @@ input {
     padding-botton:  0%;
   }
   
-  input {
-    width: 72vw;
-  }
-
-  form {
-    padding-top: 0px;
-  }
-
-  form [type="submit"] {
-    width: 80%;
-  }
-  
-  form [type="reset"] {
-    width: 60%;
-  }
-
-  p {
-    font-size: 20px;
-    padding-top: 0px;
-    padding-left: 0px;
-    line-height: 22px;
-    margin: 20px  10%;
-  }
-
-  h1 {
-    font-size: 38px;
-  }
-
-  h2 {
-    font-size: 28px;
-    line-height: 10px;
-    padding-left: 76px;
-  }
-  
-  h3 {
-    font-size: 20px;
-    color: rgb(12, 56, 27);
-    padding-left: 40px;
-    padding-top: 10px;
-    padding-bottom: 0px;
-    flex-direction: column;
-    line-height: 0px
-    padding_right: 10px;
-  }
-
-  h4 {
-   font-size: 30px;
-   color: rgb(196, 10, 10);
-   padding-left: 20px;
-   padding-top: 0%;
-   flex-direction: column;
-   line-height: 0px;
-  }
-
 }
   
   
+
 
 
 
